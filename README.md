@@ -21,7 +21,10 @@ pip install pandas
 conda install -c conda-forge imbalanced-learn
 conda install -c conda-forge lifelines
 ```
+## Download dataset
+Here, we provide a cleaned pan-cancer dataset and a dataset of 16 cancer types:
 
+[Google Drive](https://drive.google.com/drive/folders/1KuDVRkPJZWYfQ2Z4YRxDo6e8lo5s68za?usp=sharing)
 ## Run Weight Reduction
 
 ```
