@@ -34,4 +34,19 @@ python train_encoder.py
 ## Run Survival Analysis
 ```
 python train_cox.py
+
+```
+## Citation
+If you find this work useful for your research, please cite our paper
+```
+@article{meng2022novel,
+  title={A Novel Attention-Mechanism Based Cox Survival Model by Exploiting Pan-Cancer Empirical Genomic Information},
+  author={Meng, Xiangyu and Wang, Xun and Zhang, Xudong and Zhang, Chaogang and Zhang, Zhiyuan and Zhang, Kuijie and Wang, Shudong},
+  journal={Cells},
+  volume={11},
+  number={9},
+  pages={1421},
+  year={2022},
+  publisher={MDPI}
+}
 ```
